@@ -20,3 +20,13 @@ h1{
 h2{
   color: #4C3A51;
 }
+
+.skills{
+  border: solid;
+}
+.skills2{
+  border-left: solid;
+}
+.heart{
+  color: #A10035;
+}
